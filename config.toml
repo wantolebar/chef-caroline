@@ -1,4 +1,4 @@
-baseURL = "https://chef-caroline.web.app/"
+baseURL = "https://chef-caroline.web.app"
 languageCode = "en-us"
 title = "Best Easy Recipes"
 theme = "x"
@@ -33,7 +33,7 @@ sectionPagesMenu = "main"
   navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
   showPostSummary = false
   wrapperMaxWidth = ""
-  mainSections = "easy"
+  mainSections = ["easy"]
   [params.social.share]
     facebook = true
     linkedin = true
@@ -66,7 +66,7 @@ sectionPagesMenu = "main"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://chef-caroline.web.app/"
+    homepage = "https://chef-caroline.web.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
