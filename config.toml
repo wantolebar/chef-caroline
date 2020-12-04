@@ -1,6 +1,6 @@
 baseURL = "https://chef-caroline.web.app/"
 languageCode = "en-us"
-title = "New X Theme"
+title = "Best Easy Recipes"
 theme = "x"
 sectionPagesMenu = "main"
 
@@ -12,8 +12,8 @@ sectionPagesMenu = "main"
   post = ":slug"
 
 [params]
-  description = "The place for over 10,000 popular recipes for your complete cooking guide"
-  topdescription = "The place for over 10,000 popular recipes for your complete cooking guide"
+  description = "10000 Assorted Easy and Delicious Recipes"
+  topdescription = "10000 Assorted Easy and Delicious Recipes"
   toptitle = "Best Easy Recipes"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
@@ -33,7 +33,7 @@ sectionPagesMenu = "main"
   navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
   showPostSummary = false
   wrapperMaxWidth = ""
-  mainSections = ["easy"]
+  mainSections = "easy"
   [params.social.share]
     facebook = true
     linkedin = true
